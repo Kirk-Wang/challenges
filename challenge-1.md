@@ -74,3 +74,33 @@
   - [ ] #3 请求建议
   - [ ] #4 接打电话
   - [ ] #5 小结
+
+- [ ] 基础英语 #10：行走天下（口语篇）
+  - [ ] #1 outline
+  - [ ] #2 问路指路
+  - [ ] #3 出门旅游
+  - [ ] #4 在海关
+  - [ ] #5 小结
+  - [ ] #6 口语篇总结
+
+- [ ] 基础英语 #11：时态在口语中（句型）
+  - [ ] #1 一般现在时
+  - [ ] #2 现在进行时
+  - [ ] #3 过去进行时
+  - [ ] #4 一般过去时
+  - [ ] #5 现在完成时
+  - [ ] #6 一般将来时
+  - [ ] #7 各种时态混合
+
+- [ ]freeCodeCamp.org(Data Structures and Algorithms in JavaScript)
+  - [ ] #1 Stacks(复述)
+  - [ ] #2 Sets(复述)
+  - [ ] #3 Queues & Priority Queues(复述)
+  - [ ] #4 Binary Search Tree(复述)
+  - [ ] #5 Binary Search Tree: Traversal & Height(复述)
+  - [ ] #6 Hash Tables(复述)
+  - [ ] #7 Linked List(复述)
+  - [ ] #8 Trie(复述)
+  - [ ] #9 Heap (max and min)(复述)
+  - [ ] #10 Graphs: adjacency list, adjacency matrix, incidence matrix(复述)
+  - [ ] #11 Graphs: breadth-first search(复述)
