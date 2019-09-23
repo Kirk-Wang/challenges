@@ -92,7 +92,7 @@
   - [ ] #6 一般将来时
   - [ ] #7 各种时态混合
 
-- [ ]freeCodeCamp.org(Data Structures and Algorithms in JavaScript)
+- [ ] freeCodeCamp.org(Data Structures and Algorithms in JavaScript)
   - [ ] #1 Stacks(复述)
   - [ ] #2 Sets(复述)
   - [ ] #3 Queues & Priority Queues(复述)
